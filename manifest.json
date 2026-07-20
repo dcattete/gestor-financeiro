@@ -1,0 +1,17 @@
+{
+  "name": "Gestor Financeiro Pessoal",
+  "short_name": "Gestor Financeiro",
+  "description": "Gestão financeira pessoal e familiar — lançamentos, orçamento, investimentos e simulador de aposentadoria.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#171614",
+  "theme_color": "#1C1C1E",
+  "lang": "pt-BR",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
